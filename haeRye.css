@@ -2,11 +2,11 @@
     font-family: "haeRye";
     font-weight: normal;
     font-style: normal;
-    src: url("https://cdn.jsdelivr.net/gh/websfont/haeRye/haeRye.eot");
-    src: url("https://cdn.jsdelivr.net/gh/websfont/haeRye/haeRye.eot?#iefix") format("embedded-opentype"),
-         url("https://cdn.jsdelivr.net/gh/websfont/haeRye/haeRye.woff2") format("woff2"),
-         url("https://cdn.jsdelivr.net/gh/websfont/haeRye/haeRye.woff") format("woff"),
-         url("https://cdn.jsdelivr.net/gh/websfont/haeRye/haeRye.ttf") format("truetype");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/haeRye/haeRye.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/haeRye/haeRye.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/haeRye/haeRye.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/haeRye/haeRye.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/haeRye/haeRye.ttf") format("truetype");
     font-display: swap;
 }
 .haeRye {
